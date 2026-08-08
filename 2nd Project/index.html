@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Prompt-Verse — AI Prompt Generator & Creator Toolkit</title>
+  <meta name="description" content="Prompt-Verse is a modern AI prompt toolkit with prompt generation, prompt improvement, prompt building, image prompts, scoring, trending prompts and saved prompt history.">
+  <meta name="keywords" content="AI prompt generator, prompt improver, prompt builder, ChatGPT prompts, Gemini prompts, Claude prompts, image AI prompts, YouTube prompts">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://example.com/">
+  <meta property="og:title" content="Prompt-Verse — AI Prompt Generator">
+  <meta property="og:description" content="Create, improve, score and save powerful AI prompts.">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#08090d">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="ambient ambient-a"></div><div class="ambient ambient-b"></div>
+
+<header class="nav">
+  <a class="brand" href="index.html"><span class="brand-mark">✦</span><span>Prompt<span>-Verse</span></span></a>
+  <nav class="desktop-nav">
+    <a href="#generator">Generator</a><a href="prompts.html">Prompt Library</a>
+    <a href="#tools">Tools</a>
+    <a href="#trending">Trending</a>
+    <a href="#categories">Categories</a>
+    <a href="#blog">Academy</a>
+  </nav>
+  <div class="nav-actions">
+    <button class="icon-btn" id="themeBtn" title="Toggle theme">☾</button>
+    <button class="ghost-btn" id="savedBtn">♡ Saved <span id="savedCount">0</span></button>
+    <button class="mobile-menu" id="menuBtn">☰</button>
+  </div>
+</header>
+<div class="mobile-nav" id="mobileNav">
+  <a href="#generator">Generator</a><a href="#tools">Tools</a><a href="#trending">Trending</a>
+  <a href="#categories">Categories</a><a href="#blog">Academy</a>
+</div>
+
+<main>
+<section class="hero">
+  <div class="hero-content">
+    <div class="badge">✦ NEXT-GEN AI PROMPT TOOLKIT</div>
+    <h1>Create <span>better prompts</span><br><span class="cyan">better results.</span></h1>
+    <p>Generate, improve, build, score and organize AI prompts for ChatGPT, Gemini, Claude, image AI, coding, YouTube and more.</p>
+    <div class="hero-search">
+      <span>⌕</span><input id="globalSearch" placeholder="What do you want AI to help you create?">
+      <button id="searchBtn">Explore</button>
+    </div>
+    <div class="hero-actions">
+      <a class="primary-btn" href="#generator">Create a Prompt ✨</a>
+      <button class="secondary-btn" id="randomBtn">✦ Surprise Me</button>
+    </div>
+    <div class="trust-row"><span>✓ Free starter tools</span><span>✓ No signup required</span><span>✓ Browser based</span></div>
+  </div>
+</section>
+
+<section class="section" id="generator">
+  <div class="eyebrow">AI PROMPT GENERATOR</div><span class="ai-live-badge">REAL AI READY</span>
+  <h2>Turn an idea into a structured prompt.</h2>
+  <p class="section-lead">Describe your goal, choose a model and style, then generate a ready-to-copy prompt with real AI.</p>
+  <div class="generator-panel">
+    <div class="generator-main">
+      <label for="goalInput">What do you want AI to do?</label>
+      <textarea id="goalInput" placeholder="Example: Create a viral YouTube Shorts script about Minecraft survival tips..."></textarea>
+      <div class="control-grid">
+        <div><label>AI model</label><select id="modelSelect"><option>ChatGPT</option><option>Gemini</option><option>Claude</option><option>General AI</option><option>Image AI</option></select></div>
+        <div><label>Tone</label><select id="toneSelect"><option>Professional</option><option>Creative</option><option>Friendly</option><option>Expert</option><option>Viral</option></select></div>
+        <div><label>Output</label><select id="lengthSelect"><option>Detailed</option><option>Concise</option><option>Step-by-step</option><option>List</option></select></div>
+        <div><label>Language</label><select id="langSelect"><option>English</option><option>Urdu</option><option>Hinglish</option></select></div>
+      </div>
+      <button class="primary-btn full" id="generateMain">Generate Prompt ✨</button>
+    </div>
+    <div class="generator-output">
+      <div class="output-top"><span>Generated prompt</span><button id="copyMain">Copy</button></div>
+      <pre id="mainOutput">Your generated prompt will appear here...</pre>
+      <div class="score-row"><span>Prompt quality</span><strong id="mainScore">—</strong></div>
+    </div>
+  </div>
+</section>
+
+<section class="section feature-section">
+  <div class="eyebrow">POWER TOOLS</div><h2>Everything you need to work smarter with AI.</h2>
+  <div class="feature-grid advanced-feature-grid">
+    <button class="feature-card" data-tool="improver"><span>✨</span><b>Prompt Improver</b><small>Transform a weak prompt into a detailed one.</small></button>
+    <button class="feature-card" data-tool="builder"><span>🧩</span><b>Prompt Builder</b><small>Build prompts from role, goal, audience and output.</small></button>
+    <button class="feature-card" data-tool="image"><span>🎨</span><b>Image Prompt Builder</b><small>Create cinematic prompts for image generators.</small></button>
+    <button class="feature-card" data-tool="score"><span>📊</span><b>Prompt Score</b><small>Check clarity, context, specificity and structure.</small></button>
+  </div>
+</section>
+
+<section class="section" id="trending">
+  <div class="section-head"><div><div class="eyebrow">🔥 TRENDING PROMPTS</div><h2>Popular prompt ideas</h2><p>Starter templates you can copy, save and customize.</p></div><button class="secondary-btn" id="refreshTrending">Refresh ↻</button></div>
+  <div class="prompt-grid" id="trendingGrid"></div>
+</section>
+
+<section class="section" id="tools">
+  <div class="section-head">
+    <div><div class="eyebrow">PROMPT TOOLBOX</div><h2>Explore specialized tools</h2><p>Choose a workflow and generate a useful starting point.</p></div>
+    <div class="tool-search"><span>⌕</span><input id="toolFilter" placeholder="Search tools..."></div>
+  </div>
+  <div class="category-pills" id="categoryPills">
+    <button class="pill active" data-cat="all">All</button>
+    <button class="pill" data-cat="chat">Chat AI</button>
+    <button class="pill" data-cat="image">Image AI</button>
+    <button class="pill" data-cat="youtube">YouTube</button>
+    <button class="pill" data-cat="coding">Coding</button>
+    <button class="pill" data-cat="business">Business</button>
+  </div>
+  <div class="tools-grid" id="toolsGrid"></div>
+</section>
+
+<section class="section categories" id="categories">
+  <div class="eyebrow">BROWSE BY USE CASE</div><h2>Find your AI workflow</h2>
+  <div class="category-grid">
+    <button data-jump="chat"><span>💬</span><b>Chat AI</b><small>ChatGPT, Gemini & Claude prompts</small></button>
+    <button data-jump="image"><span>🎨</span><b>Image AI</b><small>Midjourney-style cinematic prompts</small></button>
+    <button data-jump="youtube"><span>▶</span><b>YouTube</b><small>Scripts, titles, hooks & thumbnails</small></button>
+    <button data-jump="coding"><span>💻</span><b>Coding</b><small>Debugging, architecture & code prompts</small></button>
+    <button data-jump="business"><span>📈</span><b>Business</b><small>Marketing, strategy & research</small></button>
+    <button data-jump="all"><span>✍️</span><b>Writing</b><small>Emails, blogs and creative writing</small></button>
+  </div>
+</section>
+
+<section class="section workflow">
+  <div class="workflow-copy"><div class="eyebrow">YOUR WORKFLOW</div><h2>Idea → Prompt → Result.</h2><p>Prompt-Verse helps you structure the thinking before you send the request to your AI model.</p></div>
+  <div class="steps">
+    <div><strong>01</strong><h3>Describe</h3><p>Tell us what you want AI to accomplish.</p></div>
+    <div><strong>02</strong><h3>Optimize</h3><p>Add role, context, tone and output requirements.</p></div>
+    <div><strong>03</strong><h3>Copy & run</h3><p>Send the polished prompt to your preferred AI.</p></div>
+  </div>
+</section>
+
+<section class="section" id="saved">
+  <div class="eyebrow">YOUR PROMPT VAULT</div><h2>Saved & recent prompts</h2>
+  <p class="section-lead">Saved locally in your browser. No account required in this version.</p>
+  <div class="history-grid" id="historyGrid"></div>
+</section>
+
+<section class="section why">
+  <div class="eyebrow">WHY PROMPT-VERSE</div><h2>Built for creators, students and builders.</h2>
+  <div class="why-grid">
+    <div><b>⚡ Fast</b><p>Generate structured prompt drafts instantly in your browser.</p></div>
+    <div><b>🔒 Private</b><p>This starter version stores saved data locally on your device.</p></div>
+    <div><b>🧠 Structured</b><p>Use roles, context, constraints and output formats.</p></div>
+    <div><b>🎯 Flexible</b><p>Adapt prompts for chat, image, coding and content workflows.</p></div>
+  </div>
+</section>
+
+<section class="section blog-section" id="blog">
+  <div class="section-head"><div><div class="eyebrow">PROMPT ACADEMY</div><h2>Learn prompt engineering</h2><p>Educational content can grow this section into an SEO traffic engine.</p></div><a class="text-link" href="blog.html">View academy →</a></div>
+  <div class="blog-grid">
+    <a class="blog-card" href="blog.html"><span>BEGINNER</span><h3>How to write a strong AI prompt</h3><p>Learn the role, context, task and output framework.</p></a>
+    <a class="blog-card" href="blog.html"><span>IMAGE AI</span><h3>How to describe cinematic AI images</h3><p>Use subject, environment, camera, lighting and style.</p></a>
+    <a class="blog-card" href="blog.html"><span>ADVANCED</span><h3>Prompt chaining and iterative improvement</h3><p>Build better results through structured refinement.</p></a>
+  </div>
+</section>
+
+<section class="section faq">
+  <div class="eyebrow">FAQ</div><h2>Common questions</h2>
+  <details><summary>Is Prompt-Verse free?</summary><p>Yes. This v3 is a free browser-based starter version.</p></details>
+  <details><summary>Does Prompt-Verse use real AI?</summary><p>Yes. When deployed with the secure server-side API configuration, the main generator and Prompt Improver use a real AI model. A local fallback keeps the UI usable if the API is unavailable.</p></details>
+  <details><summary>Are my saved prompts uploaded?</summary><p>No. Favorites and history are stored in your browser's local storage in this starter version.</p></details>
+  <details><summary>Is my API key safe?</summary><p>Your OpenAI key belongs in the server environment as OPENAI_API_KEY. It should never be placed in index.html or browser JavaScript.</p></details>
+  <details><summary>Can Prompt-Verse become a full AI SaaS?</summary><p>Yes. Authentication, usage limits, billing, analytics and a database can be added on top of this backend.</p></details>
+</section>
+
+<section class="section newsletter">
+  <div><div class="eyebrow">PROMPT NOTES</div><h2>Keep learning.</h2><p>Newsletter UI is ready for a future email service integration.</p></div>
+  <form id="newsletterForm"><input type="email" id="email" required placeholder="you@example.com"><button class="primary-btn">Subscribe</button></form>
+  <div class="form-note" id="newsletterNote"></div>
+</section>
+</main>
+
+<footer class="footer">
+  <div><a class="brand" href="#"><span class="brand-mark">✦</span><span>Prompt<span>-Verse</span></span></a><p>Generate. Improve. Build. Create.</p></div>
+  <div class="footer-links"><a href="about.html">About</a><a href="contact.html">Contact</a><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a><a href="disclaimer.html">Disclaimer</a></div>
+  <div class="footer-bottom">© 2026 Prompt-Verse. Built for creators and AI users.</div>
+</footer>
+
+<div class="toast" id="toast"></div>
+<div class="modal-backdrop" id="modal">
+  <div class="modal"><button class="modal-close" id="modalClose">×</button><div id="modalBody"></div></div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
