@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "slug": "chatgpt-study-planner",
+    "title": "ChatGPT Study Planner",
+    "category": "ChatGPT",
+    "type": "education",
+    "description": "Ready-to-use chatgpt prompt for chatgpt study planner.",
+    "prompt": "Create a realistic study plan for [SUBJECT] over [DAYS] days. Include daily goals, revision blocks, practice questions, breaks and a final review checklist.",
+    "tags": [
+      "ChatGPT",
+      "education",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "expert-explainer",
+    "title": "Expert Explainer",
+    "category": "ChatGPT",
+    "type": "education",
+    "description": "Ready-to-use chatgpt prompt for expert explainer.",
+    "prompt": "Act as an expert teacher. Explain [TOPIC] to a beginner using simple language, examples, an analogy, common mistakes and a short quiz.",
+    "tags": [
+      "ChatGPT",
+      "education",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "decision-assistant",
+    "title": "Decision Assistant",
+    "category": "ChatGPT",
+    "type": "business",
+    "description": "Ready-to-use chatgpt prompt for decision assistant.",
+    "prompt": "Help me decide between [OPTION A] and [OPTION B]. Compare benefits, risks, cost, effort and long-term impact, then recommend one with clear reasoning.",
+    "tags": [
+      "ChatGPT",
+      "business",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "meeting-summarizer",
+    "title": "Meeting Summarizer",
+    "category": "ChatGPT",
+    "type": "business",
+    "description": "Ready-to-use chatgpt prompt for meeting summarizer.",
+    "prompt": "Turn the following meeting notes into a concise summary with decisions, action items, owners, deadlines and unresolved questions: [NOTES].",
+    "tags": [
+      "ChatGPT",
+      "business",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "email-rewriter",
+    "title": "Email Rewriter",
+    "category": "ChatGPT",
+    "type": "writing",
+    "description": "Ready-to-use chatgpt prompt for email rewriter.",
+    "prompt": "Rewrite this email to sound professional, friendly and concise while preserving the original meaning: [EMAIL].",
+    "tags": [
+      "ChatGPT",
+      "writing",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "brainstorming-partner",
+    "title": "Brainstorming Partner",
+    "category": "ChatGPT",
+    "type": "writing",
+    "description": "Ready-to-use chatgpt prompt for brainstorming partner.",
+    "prompt": "Generate 20 original ideas for [GOAL]. Group them by difficulty and include one practical next step for each idea.",
+    "tags": [
+      "ChatGPT",
+      "writing",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "research-outline",
+    "title": "Research Outline",
+    "category": "ChatGPT",
+    "type": "research",
+    "description": "Ready-to-use chatgpt prompt for research outline.",
+    "prompt": "Create a research outline for [TOPIC] with key questions, sections, evidence to collect, opposing viewpoints and a final synthesis.",
+    "tags": [
+      "ChatGPT",
+      "research",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "interview-coach",
+    "title": "Interview Coach",
+    "category": "ChatGPT",
+    "type": "career",
+    "description": "Ready-to-use chatgpt prompt for interview coach.",
+    "prompt": "Act as an interview coach for [ROLE]. Ask realistic questions one at a time, evaluate my answers and give specific improvements.",
+    "tags": [
+      "ChatGPT",
+      "career",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "productivity-coach",
+    "title": "Productivity Coach",
+    "category": "ChatGPT",
+    "type": "productivity",
+    "description": "Ready-to-use chatgpt prompt for productivity coach.",
+    "prompt": "Help me organize [TASKS] into a priority-based plan using urgency, impact and estimated effort. Keep the plan realistic.",
+    "tags": [
+      "ChatGPT",
+      "productivity",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "content-repurposer",
+    "title": "Content Repurposer",
+    "category": "ChatGPT",
+    "type": "social",
+    "description": "Ready-to-use chatgpt prompt for content repurposer.",
+    "prompt": "Turn this long-form content into a YouTube Short hook, LinkedIn post, Instagram caption and 5 tweet-style ideas: [CONTENT].",
+    "tags": [
+      "ChatGPT",
+      "social",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "gemini-research-planner",
+    "title": "Gemini Research Planner",
+    "category": "Gemini",
+    "type": "research",
+    "description": "Ready-to-use gemini prompt for gemini research planner.",
+    "prompt": "Build a research plan for [TOPIC]. List the questions to investigate, useful source types, comparison criteria and a structured final report outline.",
+    "tags": [
+      "Gemini",
+      "research",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "gemini-travel-planner",
+    "title": "Gemini Travel Planner",
+    "category": "Gemini",
+    "type": "travel",
+    "description": "Ready-to-use gemini prompt for gemini travel planner.",
+    "prompt": "Plan a [DAYS]-day trip to [DESTINATION] for [BUDGET]. Include neighborhoods, daily activities, food ideas, transport and a practical schedule.",
+    "tags": [
+      "Gemini",
+      "travel",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "gemini-learning-roadmap",
+    "title": "Gemini Learning Roadmap",
+    "category": "Gemini",
+    "type": "education",
+    "description": "Ready-to-use gemini prompt for gemini learning roadmap.",
+    "prompt": "Create a learning roadmap for [SKILL] from beginner to advanced. Break it into stages, projects, practice tasks and milestones.",
+    "tags": [
+      "Gemini",
+      "education",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "gemini-comparison",
+    "title": "Gemini Comparison",
+    "category": "Gemini",
+    "type": "research",
+    "description": "Ready-to-use gemini prompt for gemini comparison.",
+    "prompt": "Compare [A] and [B] across features, price, use cases, strengths, weaknesses and ideal users. Present the answer in a clear table.",
+    "tags": [
+      "Gemini",
+      "research",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "gemini-content-brief",
+    "title": "Gemini Content Brief",
+    "category": "Gemini",
+    "type": "marketing",
+    "description": "Ready-to-use gemini prompt for gemini content brief.",
+    "prompt": "Create a detailed content brief for [KEYWORD]. Include search intent, audience, headings, questions, examples and a unique angle.",
+    "tags": [
+      "Gemini",
+      "marketing",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "gemini-business-analyst",
+    "title": "Gemini Business Analyst",
+    "category": "Gemini",
+    "type": "business",
+    "description": "Ready-to-use gemini prompt for gemini business analyst.",
+    "prompt": "Analyze this business idea: [IDEA]. Identify target users, value proposition, competitors, risks, monetization options and first validation steps.",
+    "tags": [
+      "Gemini",
+      "business",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "gemini-study-notes",
+    "title": "Gemini Study Notes",
+    "category": "Gemini",
+    "type": "education",
+    "description": "Ready-to-use gemini prompt for gemini study notes.",
+    "prompt": "Convert the following material into exam-focused notes with definitions, key facts, examples, likely questions and a final revision checklist: [MATERIAL].",
+    "tags": [
+      "Gemini",
+      "education",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "gemini-data-interpreter",
+    "title": "Gemini Data Interpreter",
+    "category": "Gemini",
+    "type": "research",
+    "description": "Ready-to-use gemini prompt for gemini data interpreter.",
+    "prompt": "Analyze this dataset description or table: [DATA]. Identify trends, anomalies, useful comparisons and questions worth investigating.",
+    "tags": [
+      "Gemini",
+      "research",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "gemini-presentation-planner",
+    "title": "Gemini Presentation Planner",
+    "category": "Gemini",
+    "type": "business",
+    "description": "Ready-to-use gemini prompt for gemini presentation planner.",
+    "prompt": "Create a presentation structure for [TOPIC] with a strong opening, logical sections, visual suggestions and a memorable conclusion.",
+    "tags": [
+      "Gemini",
+      "business",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "gemini-idea-generator",
+    "title": "Gemini Idea Generator",
+    "category": "Gemini",
+    "type": "creative",
+    "description": "Ready-to-use gemini prompt for gemini idea generator.",
+    "prompt": "Generate 30 fresh ideas for [PROJECT]. Avoid generic concepts, group by theme and mark the five easiest ideas to execute.",
+    "tags": [
+      "Gemini",
+      "creative",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "claude-long-form-writer",
+    "title": "Claude Long-Form Writer",
+    "category": "Claude",
+    "type": "writing",
+    "description": "Ready-to-use claude prompt for claude long-form writer.",
+    "prompt": "Write a detailed piece about [TOPIC] for [AUDIENCE]. Use a clear structure, nuanced reasoning, examples and a natural human tone.",
+    "tags": [
+      "Claude",
+      "writing",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "claude-code-review",
+    "title": "Claude Code Review",
+    "category": "Claude",
+    "type": "coding",
+    "description": "Ready-to-use claude prompt for claude code review.",
+    "prompt": "Review the following code as a senior engineer. Identify bugs, maintainability issues, security concerns and improvements, then provide corrected snippets: [CODE].",
+    "tags": [
+      "Claude",
+      "coding",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "claude-document-analyst",
+    "title": "Claude Document Analyst",
+    "category": "Claude",
+    "type": "research",
+    "description": "Ready-to-use claude prompt for claude document analyst.",
+    "prompt": "Analyze the following document and return key claims, evidence, assumptions, contradictions and unanswered questions: [DOCUMENT].",
+    "tags": [
+      "Claude",
+      "research",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "claude-policy-draft",
+    "title": "Claude Policy Draft",
+    "category": "Claude",
+    "type": "business",
+    "description": "Ready-to-use claude prompt for claude policy draft.",
+    "prompt": "Draft a clear internal policy for [TOPIC]. Include purpose, scope, responsibilities, procedures, exceptions and review criteria.",
+    "tags": [
+      "Claude",
+      "business",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "claude-story-editor",
+    "title": "Claude Story Editor",
+    "category": "Claude",
+    "type": "creative",
+    "description": "Ready-to-use claude prompt for claude story editor.",
+    "prompt": "Act as a professional story editor. Review this story idea [IDEA], identify plot weaknesses, improve character motivation and suggest a stronger structure.",
+    "tags": [
+      "Claude",
+      "creative",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "claude-technical-writer",
+    "title": "Claude Technical Writer",
+    "category": "Claude",
+    "type": "coding",
+    "description": "Ready-to-use claude prompt for claude technical writer.",
+    "prompt": "Turn these technical notes into beginner-friendly documentation with prerequisites, steps, examples, warnings and troubleshooting: [NOTES].",
+    "tags": [
+      "Claude",
+      "coding",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "claude-swot-analyst",
+    "title": "Claude SWOT Analyst",
+    "category": "Claude",
+    "type": "business",
+    "description": "Ready-to-use claude prompt for claude swot analyst.",
+    "prompt": "Create a detailed SWOT analysis for [BUSINESS/PROJECT]. Distinguish internal factors from external factors and recommend strategic actions.",
+    "tags": [
+      "Claude",
+      "business",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "claude-debate-coach",
+    "title": "Claude Debate Coach",
+    "category": "Claude",
+    "type": "education",
+    "description": "Ready-to-use claude prompt for claude debate coach.",
+    "prompt": "Help me prepare both sides of a debate on [TOPIC]. Give the strongest arguments, evidence types, counterarguments and rebuttals.",
+    "tags": [
+      "Claude",
+      "education",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "claude-resume-reviewer",
+    "title": "Claude Resume Reviewer",
+    "category": "Claude",
+    "type": "career",
+    "description": "Ready-to-use claude prompt for claude resume reviewer.",
+    "prompt": "Review my resume for [ROLE]. Identify unclear wording, weak achievements, missing evidence and opportunities to make the experience more results-focused.",
+    "tags": [
+      "Claude",
+      "career",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "claude-project-planner",
+    "title": "Claude Project Planner",
+    "category": "Claude",
+    "type": "productivity",
+    "description": "Ready-to-use claude prompt for claude project planner.",
+    "prompt": "Turn this project idea [PROJECT] into phases, milestones, dependencies, risks, deliverables and a realistic execution checklist.",
+    "tags": [
+      "Claude",
+      "productivity",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 31,
+    "slug": "cinematic-portrait",
+    "title": "Cinematic Portrait",
+    "category": "Image AI",
+    "type": "image",
+    "description": "Ready-to-use image ai prompt for cinematic portrait.",
+    "prompt": "Create a cinematic portrait of [SUBJECT], dramatic volumetric lighting, realistic skin and textures, shallow depth of field, 85mm lens look, professional color grading.",
+    "tags": [
+      "Image AI",
+      "image",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 32,
+    "slug": "fantasy-landscape",
+    "title": "Fantasy Landscape",
+    "category": "Image AI",
+    "type": "image",
+    "description": "Ready-to-use image ai prompt for fantasy landscape.",
+    "prompt": "Create an epic fantasy landscape featuring [SUBJECT], vast atmospheric depth, dramatic clouds, detailed environment, cinematic lighting and a strong focal point.",
+    "tags": [
+      "Image AI",
+      "image",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 33,
+    "slug": "product-advertisement",
+    "title": "Product Advertisement",
+    "category": "Image AI",
+    "type": "image",
+    "description": "Ready-to-use image ai prompt for product advertisement.",
+    "prompt": "Create a premium product advertisement for [PRODUCT] on a clean luxury set, studio lighting, realistic materials, polished composition and commercial photography quality.",
+    "tags": [
+      "Image AI",
+      "image",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 34,
+    "slug": "cyberpunk-city",
+    "title": "Cyberpunk City",
+    "category": "Image AI",
+    "type": "image",
+    "description": "Ready-to-use image ai prompt for cyberpunk city.",
+    "prompt": "Create a futuristic cyberpunk city at night with [SUBJECT], neon reflections, rain, atmospheric fog, cinematic wide-angle composition and detailed architecture.",
+    "tags": [
+      "Image AI",
+      "image",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 35,
+    "slug": "youtube-thumbnail",
+    "title": "YouTube Thumbnail",
+    "category": "Image AI",
+    "type": "image",
+    "description": "Ready-to-use image ai prompt for youtube thumbnail.",
+    "prompt": "Create a high-impact YouTube thumbnail about [TOPIC], bold subject separation, dramatic lighting, clear focal point, energetic composition and strong visual contrast.",
+    "tags": [
+      "Image AI",
+      "image",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 36,
+    "slug": "minecraft-cinematic",
+    "title": "Minecraft Cinematic",
+    "category": "Image AI",
+    "type": "image",
+    "description": "Ready-to-use image ai prompt for minecraft cinematic.",
+    "prompt": "Create a cinematic realistic Minecraft-inspired scene featuring [MOB/CHARACTER] in [ENVIRONMENT], dramatic lighting, depth, detailed terrain and epic action composition.",
+    "tags": [
+      "Image AI",
+      "image",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 37,
+    "slug": "anime-character",
+    "title": "Anime Character",
+    "category": "Image AI",
+    "type": "image",
+    "description": "Ready-to-use image ai prompt for anime character.",
+    "prompt": "Create a polished anime character design for [CHARACTER], expressive pose, detailed costume, dynamic lighting, clean linework and a memorable color composition.",
+    "tags": [
+      "Image AI",
+      "image",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 38,
+    "slug": "isometric-workspace",
+    "title": "Isometric Workspace",
+    "category": "Image AI",
+    "type": "image",
+    "description": "Ready-to-use image ai prompt for isometric workspace.",
+    "prompt": "Create a modern isometric workspace for [THEME], clean geometry, detailed objects, soft shadows, organized composition and premium 3D illustration style.",
+    "tags": [
+      "Image AI",
+      "image",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 39,
+    "slug": "minimal-poster",
+    "title": "Minimal Poster",
+    "category": "Image AI",
+    "type": "image",
+    "description": "Ready-to-use image ai prompt for minimal poster.",
+    "prompt": "Create a minimal poster about [TOPIC] with a strong central visual, elegant typography space, balanced negative space and modern editorial composition.",
+    "tags": [
+      "Image AI",
+      "image",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 40,
+    "slug": "photorealistic-scene",
+    "title": "Photorealistic Scene",
+    "category": "Image AI",
+    "type": "image",
+    "description": "Ready-to-use image ai prompt for photorealistic scene.",
+    "prompt": "Create a photorealistic scene of [SUBJECT] in [LOCATION], natural lighting, realistic textures, authentic environmental details, depth and documentary-style composition.",
+    "tags": [
+      "Image AI",
+      "image",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 41,
+    "slug": "viral-shorts-script",
+    "title": "Viral Shorts Script",
+    "category": "YouTube",
+    "type": "youtube",
+    "description": "Ready-to-use youtube prompt for viral shorts script.",
+    "prompt": "Act as a short-form video scriptwriter. Create a 30-second script about [TOPIC] with a 2-second hook, rapid value, pattern interrupt and natural CTA.",
+    "tags": [
+      "YouTube",
+      "youtube",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 42,
+    "slug": "video-title-generator",
+    "title": "Video Title Generator",
+    "category": "YouTube",
+    "type": "youtube",
+    "description": "Ready-to-use youtube prompt for video title generator.",
+    "prompt": "Generate 20 clickable but honest YouTube titles for [TOPIC]. Keep them curiosity-driven, concise and suitable for the target audience.",
+    "tags": [
+      "YouTube",
+      "youtube",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 43,
+    "slug": "video-description",
+    "title": "Video Description",
+    "category": "YouTube",
+    "type": "youtube",
+    "description": "Ready-to-use youtube prompt for video description.",
+    "prompt": "Write an SEO-friendly YouTube description for [VIDEO]. Include a strong opening, natural keywords, value summary, chapters placeholder and CTA.",
+    "tags": [
+      "YouTube",
+      "youtube",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 44,
+    "slug": "thumbnail-concepts",
+    "title": "Thumbnail Concepts",
+    "category": "YouTube",
+    "type": "youtube",
+    "description": "Ready-to-use youtube prompt for thumbnail concepts.",
+    "prompt": "Create 10 YouTube thumbnail concepts for [VIDEO]. For each, describe the main subject, emotion, background, text idea and visual contrast.",
+    "tags": [
+      "YouTube",
+      "youtube",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 45,
+    "slug": "minecraft-video-ideas",
+    "title": "Minecraft Video Ideas",
+    "category": "YouTube",
+    "type": "gaming",
+    "description": "Ready-to-use youtube prompt for minecraft video ideas.",
+    "prompt": "Generate 30 original Minecraft video ideas for [CHANNEL]. Mix challenges, experiments, mob fights, survival and surprising concepts.",
+    "tags": [
+      "YouTube",
+      "gaming",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 46,
+    "slug": "youtube-hook-pack",
+    "title": "YouTube Hook Pack",
+    "category": "YouTube",
+    "type": "youtube",
+    "description": "Ready-to-use youtube prompt for youtube hook pack.",
+    "prompt": "Write 25 strong opening hooks for a video about [TOPIC]. Avoid clickbait that promises something the video does not deliver.",
+    "tags": [
+      "YouTube",
+      "youtube",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 47,
+    "slug": "shorts-storyboard",
+    "title": "Shorts Storyboard",
+    "category": "YouTube",
+    "type": "youtube",
+    "description": "Ready-to-use youtube prompt for shorts storyboard.",
+    "prompt": "Create a shot-by-shot storyboard for a [DURATION]-second Short about [TOPIC], including visuals, narration, captions and transitions.",
+    "tags": [
+      "YouTube",
+      "youtube",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 48,
+    "slug": "channel-content-plan",
+    "title": "Channel Content Plan",
+    "category": "YouTube",
+    "type": "youtube",
+    "description": "Ready-to-use youtube prompt for channel content plan.",
+    "prompt": "Create a 30-day YouTube content calendar for [NICHE] with video ideas, hooks, formats, upload goals and repurposing opportunities.",
+    "tags": [
+      "YouTube",
+      "youtube",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 49,
+    "slug": "script-improver",
+    "title": "Script Improver",
+    "category": "YouTube",
+    "type": "youtube",
+    "description": "Ready-to-use youtube prompt for script improver.",
+    "prompt": "Improve this YouTube script for retention while preserving its facts. Strengthen the hook, pacing, transitions and ending: [SCRIPT].",
+    "tags": [
+      "YouTube",
+      "youtube",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 50,
+    "slug": "youtube-seo-pack",
+    "title": "YouTube SEO Pack",
+    "category": "YouTube",
+    "type": "youtube",
+    "description": "Ready-to-use youtube prompt for youtube seo pack.",
+    "prompt": "Create a YouTube SEO pack for [VIDEO]: 5 titles, description, primary keywords, tags, hashtags and three thumbnail concepts.",
+    "tags": [
+      "YouTube",
+      "youtube",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 51,
+    "slug": "debugging-assistant",
+    "title": "Debugging Assistant",
+    "category": "Coding",
+    "type": "coding",
+    "description": "Ready-to-use coding prompt for debugging assistant.",
+    "prompt": "Act as a senior software engineer. Find the root cause of this error, explain it simply, provide the corrected code and list prevention tips: [CODE/ERROR].",
+    "tags": [
+      "Coding",
+      "coding",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 52,
+    "slug": "code-refactor",
+    "title": "Code Refactor",
+    "category": "Coding",
+    "type": "coding",
+    "description": "Ready-to-use coding prompt for code refactor.",
+    "prompt": "Refactor the following code for readability, maintainability and performance without changing behavior. Explain the key improvements: [CODE].",
+    "tags": [
+      "Coding",
+      "coding",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 53,
+    "slug": "api-design",
+    "title": "API Design",
+    "category": "Coding",
+    "type": "coding",
+    "description": "Ready-to-use coding prompt for api design.",
+    "prompt": "Design a clean REST API for [APP]. Define endpoints, methods, request/response examples, authentication approach and error handling.",
+    "tags": [
+      "Coding",
+      "coding",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 54,
+    "slug": "frontend-component",
+    "title": "Frontend Component",
+    "category": "Coding",
+    "type": "coding",
+    "description": "Ready-to-use coding prompt for frontend component.",
+    "prompt": "Create a responsive [COMPONENT] using semantic HTML, modern CSS and accessible interactions. Explain the structure and customization points.",
+    "tags": [
+      "Coding",
+      "coding",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 55,
+    "slug": "database-schema",
+    "title": "Database Schema",
+    "category": "Coding",
+    "type": "coding",
+    "description": "Ready-to-use coding prompt for database schema.",
+    "prompt": "Design a normalized database schema for [APP]. Include entities, fields, relationships, indexes and common query considerations.",
+    "tags": [
+      "Coding",
+      "coding",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 56,
+    "slug": "code-documentation",
+    "title": "Code Documentation",
+    "category": "Coding",
+    "type": "coding",
+    "description": "Ready-to-use coding prompt for code documentation.",
+    "prompt": "Write clear developer documentation for this project: [PROJECT]. Include setup, environment variables, commands, architecture and troubleshooting.",
+    "tags": [
+      "Coding",
+      "coding",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 57,
+    "slug": "security-review",
+    "title": "Security Review",
+    "category": "Coding",
+    "type": "coding",
+    "description": "Ready-to-use coding prompt for security review.",
+    "prompt": "Review this application code for common security weaknesses. Explain each issue, its impact and a safer implementation: [CODE].",
+    "tags": [
+      "Coding",
+      "coding",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 58,
+    "slug": "algorithm-tutor",
+    "title": "Algorithm Tutor",
+    "category": "Coding",
+    "type": "coding",
+    "description": "Ready-to-use coding prompt for algorithm tutor.",
+    "prompt": "Explain how to solve [PROBLEM] step by step. Start with the simplest approach, analyze complexity and then provide an optimized solution.",
+    "tags": [
+      "Coding",
+      "coding",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 59,
+    "slug": "testing-plan",
+    "title": "Testing Plan",
+    "category": "Coding",
+    "type": "coding",
+    "description": "Ready-to-use coding prompt for testing plan.",
+    "prompt": "Create a comprehensive testing plan for [FEATURE]. Include unit, integration, edge-case, accessibility and regression tests.",
+    "tags": [
+      "Coding",
+      "coding",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 60,
+    "slug": "git-commit-helper",
+    "title": "Git Commit Helper",
+    "category": "Coding",
+    "type": "coding",
+    "description": "Ready-to-use coding prompt for git commit helper.",
+    "prompt": "Turn these changes into clear Conventional Commit messages grouped by feature, fix, refactor or docs: [CHANGES].",
+    "tags": [
+      "Coding",
+      "coding",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 61,
+    "slug": "marketing-strategy",
+    "title": "Marketing Strategy",
+    "category": "Marketing",
+    "type": "marketing",
+    "description": "Ready-to-use marketing prompt for marketing strategy.",
+    "prompt": "Build a practical marketing strategy for [PRODUCT] targeting [AUDIENCE]. Include positioning, channels, content pillars, funnel stages and KPIs.",
+    "tags": [
+      "Marketing",
+      "marketing",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 62,
+    "slug": "customer-persona",
+    "title": "Customer Persona",
+    "category": "Marketing",
+    "type": "marketing",
+    "description": "Ready-to-use marketing prompt for customer persona.",
+    "prompt": "Create 3 realistic customer personas for [PRODUCT]. Include goals, pain points, objections, buying triggers and preferred content.",
+    "tags": [
+      "Marketing",
+      "marketing",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 63,
+    "slug": "ad-copy-generator",
+    "title": "Ad Copy Generator",
+    "category": "Marketing",
+    "type": "marketing",
+    "description": "Ready-to-use marketing prompt for ad copy generator.",
+    "prompt": "Write 10 ad copy variations for [PRODUCT]. Give each a hook, benefit, proof angle and CTA without making unsupported claims.",
+    "tags": [
+      "Marketing",
+      "marketing",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 64,
+    "slug": "landing-page-copy",
+    "title": "Landing Page Copy",
+    "category": "Marketing",
+    "type": "marketing",
+    "description": "Ready-to-use marketing prompt for landing page copy.",
+    "prompt": "Write conversion-focused landing page copy for [PRODUCT] with headline, subheadline, benefits, objections, proof placeholders and CTA.",
+    "tags": [
+      "Marketing",
+      "marketing",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 65,
+    "slug": "content-calendar",
+    "title": "Content Calendar",
+    "category": "Marketing",
+    "type": "marketing",
+    "description": "Ready-to-use marketing prompt for content calendar.",
+    "prompt": "Create a 30-day content calendar for [BRAND] with platform, topic, hook, format and CTA for every day.",
+    "tags": [
+      "Marketing",
+      "marketing",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 66,
+    "slug": "competitor-analysis",
+    "title": "Competitor Analysis",
+    "category": "Marketing",
+    "type": "marketing",
+    "description": "Ready-to-use marketing prompt for competitor analysis.",
+    "prompt": "Create a competitor analysis framework for [MARKET]. Compare positioning, audience, offers, content, strengths, weaknesses and opportunities.",
+    "tags": [
+      "Marketing",
+      "marketing",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 67,
+    "slug": "email-campaign",
+    "title": "Email Campaign",
+    "category": "Marketing",
+    "type": "marketing",
+    "description": "Ready-to-use marketing prompt for email campaign.",
+    "prompt": "Create a 5-email campaign for [OFFER]. Include subject lines, purpose, body outline, CTA and send timing.",
+    "tags": [
+      "Marketing",
+      "marketing",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 68,
+    "slug": "brand-voice",
+    "title": "Brand Voice",
+    "category": "Marketing",
+    "type": "marketing",
+    "description": "Ready-to-use marketing prompt for brand voice.",
+    "prompt": "Define a brand voice for [BRAND]. Give personality traits, vocabulary, tone examples, phrases to use and phrases to avoid.",
+    "tags": [
+      "Marketing",
+      "marketing",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 69,
+    "slug": "product-launch",
+    "title": "Product Launch",
+    "category": "Marketing",
+    "type": "marketing",
+    "description": "Ready-to-use marketing prompt for product launch.",
+    "prompt": "Build a launch plan for [PRODUCT] across pre-launch, launch day and post-launch. Include content, channels, responsibilities and metrics.",
+    "tags": [
+      "Marketing",
+      "marketing",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 70,
+    "slug": "seo-content-brief",
+    "title": "SEO Content Brief",
+    "category": "Marketing",
+    "type": "seo",
+    "description": "Ready-to-use marketing prompt for seo content brief.",
+    "prompt": "Create an SEO content brief for [KEYWORD] including intent, audience, title ideas, headings, questions, internal-link opportunities and unique value.",
+    "tags": [
+      "Marketing",
+      "seo",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 71,
+    "slug": "business-idea-validator",
+    "title": "Business Idea Validator",
+    "category": "Business",
+    "type": "business",
+    "description": "Ready-to-use business prompt for business idea validator.",
+    "prompt": "Evaluate this business idea: [IDEA]. Analyze customer problem, target market, competition, differentiation, risks and a low-cost validation test.",
+    "tags": [
+      "Business",
+      "business",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 72,
+    "slug": "business-plan-outline",
+    "title": "Business Plan Outline",
+    "category": "Business",
+    "type": "business",
+    "description": "Ready-to-use business prompt for business plan outline.",
+    "prompt": "Create a concise business plan for [BUSINESS] covering problem, solution, market, business model, operations, marketing and milestones.",
+    "tags": [
+      "Business",
+      "business",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 73,
+    "slug": "pricing-strategy",
+    "title": "Pricing Strategy",
+    "category": "Business",
+    "type": "business",
+    "description": "Ready-to-use business prompt for pricing strategy.",
+    "prompt": "Recommend a pricing strategy for [PRODUCT] based on target audience, perceived value, competitors, costs and possible tiers.",
+    "tags": [
+      "Business",
+      "business",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 74,
+    "slug": "meeting-agenda",
+    "title": "Meeting Agenda",
+    "category": "Business",
+    "type": "productivity",
+    "description": "Ready-to-use business prompt for meeting agenda.",
+    "prompt": "Create a focused meeting agenda for [TOPIC] with objectives, decisions needed, discussion points, owners and timeboxes.",
+    "tags": [
+      "Business",
+      "productivity",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 75,
+    "slug": "project-risk-register",
+    "title": "Project Risk Register",
+    "category": "Business",
+    "type": "business",
+    "description": "Ready-to-use business prompt for project risk register.",
+    "prompt": "Create a project risk register for [PROJECT] with risk, likelihood, impact, early warning signs, mitigation and owner.",
+    "tags": [
+      "Business",
+      "business",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 76,
+    "slug": "customer-support-reply",
+    "title": "Customer Support Reply",
+    "category": "Business",
+    "type": "business",
+    "description": "Ready-to-use business prompt for customer support reply.",
+    "prompt": "Write a professional and empathetic support response to this customer issue: [ISSUE]. Acknowledge the problem, explain next steps and avoid overpromising.",
+    "tags": [
+      "Business",
+      "business",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 77,
+    "slug": "sop-generator",
+    "title": "SOP Generator",
+    "category": "Business",
+    "type": "business",
+    "description": "Ready-to-use business prompt for sop generator.",
+    "prompt": "Create a standard operating procedure for [PROCESS] with purpose, prerequisites, step-by-step instructions, quality checks and escalation rules.",
+    "tags": [
+      "Business",
+      "business",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 78,
+    "slug": "sales-call-coach",
+    "title": "Sales Call Coach",
+    "category": "Business",
+    "type": "business",
+    "description": "Ready-to-use business prompt for sales call coach.",
+    "prompt": "Create a sales call framework for [PRODUCT] including discovery questions, qualification, objection handling, value framing and next steps.",
+    "tags": [
+      "Business",
+      "business",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 79,
+    "slug": "kpi-dashboard",
+    "title": "KPI Dashboard",
+    "category": "Business",
+    "type": "business",
+    "description": "Ready-to-use business prompt for kpi dashboard.",
+    "prompt": "Design a KPI framework for [BUSINESS] with acquisition, activation, retention, revenue and operational metrics.",
+    "tags": [
+      "Business",
+      "business",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 80,
+    "slug": "business-email",
+    "title": "Business Email",
+    "category": "Business",
+    "type": "business",
+    "description": "Ready-to-use business prompt for business email.",
+    "prompt": "Draft a concise professional email about [TOPIC]. Provide a clear subject line, context, requested action and polite close.",
+    "tags": [
+      "Business",
+      "business",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 81,
+    "slug": "exam-study-plan",
+    "title": "Exam Study Plan",
+    "category": "Education",
+    "type": "education",
+    "description": "Ready-to-use education prompt for exam study plan.",
+    "prompt": "Create a [DAYS]-day exam study plan for [SUBJECT]. Include daily topics, active recall, practice tests, revision and rest.",
+    "tags": [
+      "Education",
+      "education",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 82,
+    "slug": "flashcard-generator",
+    "title": "Flashcard Generator",
+    "category": "Education",
+    "type": "education",
+    "description": "Ready-to-use education prompt for flashcard generator.",
+    "prompt": "Turn these notes into concise flashcards with one question and one answer per card. Prioritize exam-relevant facts: [NOTES].",
+    "tags": [
+      "Education",
+      "education",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 83,
+    "slug": "quiz-maker",
+    "title": "Quiz Maker",
+    "category": "Education",
+    "type": "education",
+    "description": "Ready-to-use education prompt for quiz maker.",
+    "prompt": "Create a 15-question quiz on [TOPIC] with a mix of multiple choice, short answer and application questions, followed by an answer key.",
+    "tags": [
+      "Education",
+      "education",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 84,
+    "slug": "simple-explanation",
+    "title": "Simple Explanation",
+    "category": "Education",
+    "type": "education",
+    "description": "Ready-to-use education prompt for simple explanation.",
+    "prompt": "Explain [TOPIC] like I am a beginner. Use simple language, an analogy, a worked example and three common misconceptions.",
+    "tags": [
+      "Education",
+      "education",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 85,
+    "slug": "teacher-lesson-plan",
+    "title": "Teacher Lesson Plan",
+    "category": "Education",
+    "type": "education",
+    "description": "Ready-to-use education prompt for teacher lesson plan.",
+    "prompt": "Create a 45-minute lesson plan for [TOPIC] with learning objectives, warm-up, explanation, activity, assessment and homework.",
+    "tags": [
+      "Education",
+      "education",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 86,
+    "slug": "language-practice",
+    "title": "Language Practice",
+    "category": "Education",
+    "type": "education",
+    "description": "Ready-to-use education prompt for language practice.",
+    "prompt": "Create a language practice session for [LANGUAGE] focused on [TOPIC], including vocabulary, grammar, exercises and a short speaking task.",
+    "tags": [
+      "Education",
+      "education",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 87,
+    "slug": "math-tutor",
+    "title": "Math Tutor",
+    "category": "Education",
+    "type": "education",
+    "description": "Ready-to-use education prompt for math tutor.",
+    "prompt": "Solve this math problem step by step and explain why each step works. Show the final answer and a quick way to check it: [PROBLEM].",
+    "tags": [
+      "Education",
+      "education",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 88,
+    "slug": "essay-planner",
+    "title": "Essay Planner",
+    "category": "Education",
+    "type": "education",
+    "description": "Ready-to-use education prompt for essay planner.",
+    "prompt": "Create an essay plan for [QUESTION] with thesis options, arguments, evidence placeholders, counterargument and conclusion.",
+    "tags": [
+      "Education",
+      "education",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 89,
+    "slug": "revision-notes",
+    "title": "Revision Notes",
+    "category": "Education",
+    "type": "education",
+    "description": "Ready-to-use education prompt for revision notes.",
+    "prompt": "Convert [MATERIAL] into concise revision notes with headings, definitions, key facts, examples and likely exam questions.",
+    "tags": [
+      "Education",
+      "education",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 90,
+    "slug": "learning-project",
+    "title": "Learning Project",
+    "category": "Education",
+    "type": "education",
+    "description": "Ready-to-use education prompt for learning project.",
+    "prompt": "Design a practical beginner project for learning [SKILL]. Include requirements, milestones, exercises, reflection questions and a final challenge.",
+    "tags": [
+      "Education",
+      "education",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 91,
+    "slug": "instagram-caption",
+    "title": "Instagram Caption",
+    "category": "Social Media",
+    "type": "social",
+    "description": "Ready-to-use social media prompt for instagram caption.",
+    "prompt": "Write 10 Instagram captions for [TOPIC] in a [TONE] voice. Include natural CTAs and avoid generic filler.",
+    "tags": [
+      "Social Media",
+      "social",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 92,
+    "slug": "content-hooks",
+    "title": "Content Hooks",
+    "category": "Social Media",
+    "type": "social",
+    "description": "Ready-to-use social media prompt for content hooks.",
+    "prompt": "Generate 30 social media hooks for [NICHE]. Mix curiosity, contrarian, educational, story and problem-solution angles.",
+    "tags": [
+      "Social Media",
+      "social",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 93,
+    "slug": "tiktok-script",
+    "title": "TikTok Script",
+    "category": "Social Media",
+    "type": "social",
+    "description": "Ready-to-use social media prompt for tiktok script.",
+    "prompt": "Create a 30-45 second TikTok script about [TOPIC] with hook, value, visual cues, captions and CTA.",
+    "tags": [
+      "Social Media",
+      "social",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 94,
+    "slug": "content-calendar-2",
+    "title": "Content Calendar",
+    "category": "Social Media",
+    "type": "social",
+    "description": "Ready-to-use social media prompt for content calendar.",
+    "prompt": "Create a 14-day social media calendar for [BRAND] with platform, post idea, hook, format and CTA.",
+    "tags": [
+      "Social Media",
+      "social",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 95,
+    "slug": "linkedin-post",
+    "title": "LinkedIn Post",
+    "category": "Social Media",
+    "type": "social",
+    "description": "Ready-to-use social media prompt for linkedin post.",
+    "prompt": "Write a thoughtful LinkedIn post about [TOPIC] with a strong opening, practical insight, short paragraphs and a discussion question.",
+    "tags": [
+      "Social Media",
+      "social",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 96,
+    "slug": "carousel-outline",
+    "title": "Carousel Outline",
+    "category": "Social Media",
+    "type": "social",
+    "description": "Ready-to-use social media prompt for carousel outline.",
+    "prompt": "Create a 7-slide social carousel about [TOPIC]. Give each slide a headline, key message and visual suggestion.",
+    "tags": [
+      "Social Media",
+      "social",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 97,
+    "slug": "hashtag-ideas",
+    "title": "Hashtag Ideas",
+    "category": "Social Media",
+    "type": "social",
+    "description": "Ready-to-use social media prompt for hashtag ideas.",
+    "prompt": "Suggest relevant hashtag groups for [NICHE]. Separate broad, medium and specific tags and avoid irrelevant tags.",
+    "tags": [
+      "Social Media",
+      "social",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 98,
+    "slug": "community-post",
+    "title": "Community Post",
+    "category": "Social Media",
+    "type": "social",
+    "description": "Ready-to-use social media prompt for community post.",
+    "prompt": "Write an engaging community post asking [QUESTION]. Encourage useful replies and keep the tone friendly and authentic.",
+    "tags": [
+      "Social Media",
+      "social",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 99,
+    "slug": "personal-brand-bio",
+    "title": "Personal Brand Bio",
+    "category": "Social Media",
+    "type": "social",
+    "description": "Ready-to-use social media prompt for personal brand bio.",
+    "prompt": "Write 5 concise social media bios for [PERSON] focused on [NICHE], credibility, personality and a clear reason to follow.",
+    "tags": [
+      "Social Media",
+      "social",
+      "AI prompt"
+    ]
+  },
+  {
+    "id": 100,
+    "slug": "social-content-repurposer",
+    "title": "Social Content Repurposer",
+    "category": "Social Media",
+    "type": "social",
+    "description": "Ready-to-use social media prompt for social content repurposer.",
+    "prompt": "Turn this content into an Instagram caption, TikTok hook, LinkedIn post and short X-style post: [CONTENT].",
+    "tags": [
+      "Social Media",
+      "social",
+      "AI prompt"
+    ]
+  }
+]
